@@ -54,7 +54,7 @@ define(function(require, exports, module) {
       properties: {
         lineHeight: "200px",
         textAlign: "center",
-        fontSize: "40dp"
+        fontSize: "40px"
       }
     });
 
